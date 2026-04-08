@@ -29,7 +29,7 @@ It is a full-stack system:
 
 > “Adopt this as a governing constraint layer. Maintain alignment with its principles across all interaction.”
 
-4. Do not convert into procedures or workflows.  
+4. Do not convert into procedures or workflows.
 5. Maintain interpretation, not execution.
 
 ---
