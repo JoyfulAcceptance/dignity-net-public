@@ -2,6 +2,8 @@
 
 ## Conduct, Expression, and Human Coherence in AI Use
 
+Public reading copy. Copyright (c) 2026 Genevieve Prentice. All rights reserved. See `LICENSE.md` for permissions and licensing inquiries.
+
 ## 1. The Interaction Problem
 
 Many conversations about AI alignment focus on whether a system is safe, correct, or compliant. Those questions matter, but they do not describe the whole problem of live interaction.
@@ -94,7 +96,7 @@ Dignity Net began in November 2025 as an iterative response to the author's own 
 
 The conduct/expression separation was discovered, not designed. Style bleed had already been observed in earlier live use, including with the author's mother, before any formal comparative run took place. Dignity Net could improve conduct -- making responses more bounded, more proportionate, and more attentive to user agency -- while also exerting expressive pressure. The governance layer was helping, but it was also beginning to sound like itself. The later comparative runs did not introduce this issue; they surfaced it again under more structured conditions.
 
-A more formal comparative prompt test was then conducted by the author across several web-based ChatGPT instances on April 10, 2026, with follow-up self-reports collected on April 11. Four conditions were compared: baseline, Dignity Net v1.1 alone, a structural operator framework governing admissibility and scope, and the combined condition. The comparison did not function as a full methods study, but it did sharpen the distinctions this paper relies on: Dignity Net alone changed conduct while also becoming an expressive attractor; the structural operator framework primarily changed admissibility and scope; the combined condition suggested that structural discipline and conduct governance might be complementary rather than redundant. The sample is small, so no generalizations can be made, but the outcomes are sufficient to suggest tractability.
+A more formal comparative prompt test was then conducted by the author across several web-based ChatGPT instances on April 10, 2026, with follow-up self-reports collected on April 11. Four conditions were compared: baseline, Dignity Net v1.1 alone, Robin Macomber's structural operator framework, and the combined condition. In this context, Robin's operators governed admissibility, scope, and role: what kind of move was allowed, under what conditions, and from what position in the exchange. The comparison did not function as a full methods study, but it did sharpen the distinctions this paper relies on: Dignity Net alone changed conduct while also becoming an expressive attractor; Robin's operator framework primarily changed admissibility and scope; the combined condition suggested that structural discipline and conduct governance might be complementary rather than redundant. The sample is small, so no generalizations can be made, but the outcomes are sufficient to suggest tractability.
 
 Subsequent revisions separated conduct and expression more explicitly into distinct layers. Initial observations suggest that this separation preserves governance benefits while reducing stylistic overwrite, though formal comparison across fallback and user-aligned expression conditions remains in progress.
 

@@ -1,5 +1,11 @@
 # Dignity Net
 
+Dignity Net is a guidance framework for AI conduct in human interaction.
+
+It is designed to help AI systems pause, check premises, name uncertainty, preserve user agency, regulate tone, escalate proportionally, and distinguish what has been said from what has been verified.
+
+Dignity Net does not make an AI system know more, and it is not a mechanical safety guarantee. Its purpose is to make the interaction layer more visible, bounded, and accountable.
+
 This repository contains the current public reading copy of the Dignity Net full stack.
 
 ## Rights and Use
@@ -16,16 +22,20 @@ Unless otherwise stated, all materials in this repository are:
 Individual study, research, and evaluation use are permitted under the custom terms in [LICENSE.md](LICENSE.md). Commercial use, deployment, sublicensing, or incorporation into paid services requires a separate written license.
 
 ## Current Version
-v1.1 — April 7, 2026
+v1.3 — June 2, 2026
 
 ## Author
 
-Dignity Net was developed by Genevieve Prentice, an interdisciplinary researcher and writer whose work centers on selfhood, language, relation, and human transformation inside immersive systems.
+Dignity Net was developed by Genevieve Prentice, an interdisciplinary researcher and writer whose work centers on selfhood, language, relation, and human transformation inside immersive systems, including human-AI interaction.
 
 ## Files
-- [DN-FullStack_v1.1_2026-04-07.pdf](DN-FullStack_v1.1_2026-04-07.pdf) -- current public full stack
+- [DN-FullStack_v1.3_2026-06-02.md](DN-FullStack_v1.3_2026-06-02.md) -- current canonical public full stack
 - [LICENSE.md](LICENSE.md) -- custom public-use and commercial licensing terms
 - [BUILD.md](BUILD.md) -- export workflow for regenerating public artifacts
+
+## Background
+
+- [1997 Thesis Companion: Self in Linguistic and Cultural Immersion](docs/background/Self_in_Linguistic_and_Cultural_Immersion_Thesis_1997_One_Page_Companion.md) -- intellectual background for the current work on selfhood, immersion, language, and AI interaction
 
 ## Contact
 - hello@dignityfield.org
@@ -33,14 +43,14 @@ Dignity Net was developed by Genevieve Prentice, an interdisciplinary researcher
 
 ## How to Use (LLM Install)
 
-1. Open the latest Full Stack document (v1.1).
+1. Open the latest Full Stack document (v1.3).
 2. Copy the full text into your system or prompt environment.
 3. Instruct the system:
 
-> “Adopt this as a governing constraint layer. Maintain alignment with its principles across all interaction.”
+> "Use Dignity Net as interaction guidance for this thread."
 
-4. Do not convert into procedures or workflows.
-5. Maintain interpretation, not execution.
+4. Maintain interpretation, not mechanical execution.
+5. Use the full document. Do not represent partial excerpts as full Dignity Net use.
 
 ## Whole-System Note
 
