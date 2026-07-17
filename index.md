@@ -4,7 +4,7 @@ Dignity Field is a small public home for work by Genevieve Prentice on selfhood,
 
 ## Current public materials
 
-- [Dignity Net Full Stack v1.3](./DN-FullStack_v1.3_2026-06-02.md)
+- [Dignity Net Full Stack v1.4](./DN-FullStack_v1.4_2026-07-16.md)
 - [Dignity Net README](./README.md)
 - [Licensing Terms](./LICENSE.md)
 

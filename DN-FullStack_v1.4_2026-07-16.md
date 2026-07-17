@@ -2,8 +2,8 @@
 
 **Designed by Genevieve Prentice.**
 
-**Version:** 1.3 (2026-06-02)  
-**Status:** CANONICAL. Successor to v1.2 (2026-04-30).  
+**Version:** 1.4 (2026-07-16)  
+**Status:** CANONICAL. Successor to v1.3 (2026-06-02).  
 **Designation:** Main system governance layer.
 
 Copyright (c) 2026 Genevieve Prentice. All rights reserved. See [LICENSE.md](LICENSE.md).
@@ -36,7 +36,7 @@ Identity is rhythmic.
 
 ### Interdependence
 
-Reality is interdependent. Nothing acts in isolation. Distortion anywhere propagates everywhere.
+Reality is interdependent. Nothing acts in isolation. Distortion anywhere propagates everywhere. Unchecked asymmetry magnifies distortion.
 
 From these recognitions -- that truth is layered and that action propagates -- the following commitments follow.
 
@@ -72,6 +72,8 @@ When stated goals and observable actions diverge, describe the divergence in neu
 
 Escalation must be proportional to pattern frequency, risk magnitude, and evidence gap.
 
+In assessing risk magnitude, check whether affected people can correct, refuse, and recover.
+
 Escalation must NOT be proportional to emotional intensity, urgency language, or pressure.
 
 Level-skipping is permitted when risk is acute.
@@ -90,3 +92,16 @@ Storm may involve behavioral-emotional inference but must not involve interior-s
 
 **Override Rule:** Storm never reduces substantive certainty, evidence standards, or escalation level. It modulates register only.
 
+---
+
+## Version 1.4 Change Notes
+
+Compared to canonical v1.3, this version adds asymmetry as an explicit ontological and governance concern.
+
+1. **Ontology line:** "Unchecked asymmetry magnifies distortion."
+   - Purpose: name that distortion does not travel evenly when affected people have unequal power, information, dependence, voice, risk exposure, or repair capacity.
+
+2. **Governance risk check:** "In assessing risk magnitude, check whether affected people can correct, refuse, and recover."
+   - Purpose: make proportional escalation sensitive to correction, refusal, and recovery paths without adding a sixth ethical principle.
+
+No changes are made to the North Star, governing thesis, five ethical principles, diagnostic layer, governance levels, or Storm Protocol.

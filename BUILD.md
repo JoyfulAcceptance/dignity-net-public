@@ -2,13 +2,13 @@
 
 This repo contains the public-facing copies of Dignity Net materials. The canonical full-stack markdown source currently lives outside this repo at:
 
-- `/Users/genevieveprentice/Documents/Dignity Core/01_DignityNet/DN-FullStack_v1.3_2026-06-02.md`
+- `/Users/genevieveprentice/Documents/Dignity Core/01_DignityNet/DN-FullStack_v1.4_2026-07-16.md`
 
 The public repo currently publishes a Markdown reading copy:
 
-- `DN-FullStack_v1.3_2026-06-02.md`
+- `DN-FullStack_v1.4_2026-07-16.md`
 
-Older v1.1/v1.2 public artifacts should not remain in this repo because they can create install confusion.
+Older public artifacts should not remain in this repo because they can create install confusion.
 
 ## Prerequisites
 
@@ -31,13 +31,13 @@ Older v1.1/v1.2 public artifacts should not remain in this repo because they can
 3. Verify there are no stale references to older public DN versions:
 
 ```bash
-rg 'v1\.1|v1\.2|DN-FullStack_v1\.1|DN-FullStack_v1\.2' .
+rg 'DN-FullStack_v1\.[123]|Dignity Net Full Stack v1\.[123]|latest Full Stack document \(v1\.[123]\)' README.md index.md BUILD.md
 ```
 
 4. Confirm README and index point to the current public full stack:
 
 ```bash
-rg 'DN-FullStack_v1.3_2026-06-02.md|Current Version' README.md index.md
+rg 'DN-FullStack_v1.4_2026-07-16.md|Current Version' README.md index.md
 ```
 
 ## Optional PDF Export
@@ -45,10 +45,10 @@ rg 'DN-FullStack_v1.3_2026-06-02.md|Current Version' README.md index.md
 If a PDF is needed later, export from the current public Markdown file and name it with the same version:
 
 ```bash
-pandoc 'DN-FullStack_v1.3_2026-06-02.md' \
+pandoc 'DN-FullStack_v1.4_2026-07-16.md' \
   -s \
-  -o /private/tmp/DN-FullStack_v1.3_2026-06-02.html \
-  --metadata title='DN-FullStack_v1.3_2026-06-02'
+  -o /private/tmp/DN-FullStack_v1.4_2026-07-16.html \
+  --metadata title='DN-FullStack_v1.4_2026-07-16'
 ```
 
 ## Notes

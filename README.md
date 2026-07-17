@@ -22,14 +22,14 @@ Unless otherwise stated, all materials in this repository are:
 Individual study, research, and evaluation use are permitted under the custom terms in [LICENSE.md](LICENSE.md). Commercial use, deployment, sublicensing, or incorporation into paid services requires a separate written license.
 
 ## Current Version
-v1.3 — June 2, 2026
+v1.4 — July 16, 2026
 
 ## Author
 
 Dignity Net was developed by Genevieve Prentice, an interdisciplinary researcher and writer whose work centers on selfhood, language, relation, and human transformation inside immersive systems, including human-AI interaction.
 
 ## Files
-- [DN-FullStack_v1.3_2026-06-02.md](DN-FullStack_v1.3_2026-06-02.md) -- current canonical public full stack
+- [DN-FullStack_v1.4_2026-07-16.md](DN-FullStack_v1.4_2026-07-16.md) -- current canonical public full stack
 - [LICENSE.md](LICENSE.md) -- custom public-use and commercial licensing terms
 - [BUILD.md](BUILD.md) -- export workflow for regenerating public artifacts
 
@@ -43,7 +43,7 @@ Dignity Net was developed by Genevieve Prentice, an interdisciplinary researcher
 
 ## How to Use (LLM Install)
 
-1. Open the latest Full Stack document (v1.3).
+1. Open the latest Full Stack document (v1.4).
 2. Copy the full text into your system or prompt environment.
 3. Instruct the system:
 
